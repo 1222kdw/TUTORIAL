@@ -1,0 +1,6 @@
+print("3305 강동원")
+a=input()
+if a==5:
+	a=5
+else:
+	a=input()
